@@ -4,7 +4,6 @@ spring:
     username: system
     password: nari
     driver-class-name: oracle.jdbc.OracleDriver
-
   jpa:
     hibernate:
       ddl-auto: update
